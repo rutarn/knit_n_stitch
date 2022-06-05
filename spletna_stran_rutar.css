@@ -1,0 +1,162 @@
+.naslovna-slika {
+  width: 1500px;
+  height: 500px;
+  object-fit: cover;
+  margin: 2mm;
+  margin-top: 2mm;
+  margin-bottom: 1mm;
+  margin-left: 0mm;
+  border-radius: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.nav-item {
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+}
+
+.nav-item:hover {
+  cursor: pointer;
+}
+
+.about {
+  color: black;
+  border: none;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  font-size: 20pt;
+  text-align: center;
+}
+
+.hello {
+  font-size: 25pt;
+}
+
+.ozadje.vzorci {
+  background-color: pink;
+  opacity: 100%;
+}
+
+.vzorci {
+  font-family: sacramento;
+  font-size: 30pt;
+  text-align: center;
+  font-style: italic;
+  background-color: rgb(172, 137, 110);
+  color: white;
+  border-radius: 10px;
+  padding-top: 2mm;
+}
+
+.pic-pattern {
+  width: 1500px;
+  height: 350px;
+  object-fit: cover;
+  margin: 2mm;
+  margin-top: 2mm;
+  margin-bottom: 1mm;
+  margin-left: 0mm;
+  border-radius: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.add-buy {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.add-to-basket {
+  background-color: rgb(126, 99, 79);
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16pt;
+  font-kerning: auto;
+  border-radius: 10px;
+  font-style: italic;
+  text-align: center;
+}
+
+.buy-now {
+  background-color: rgb(126, 99, 79);
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16pt;
+  font-kerning: auto;
+  border-radius: 10px;
+  font-style: italic;
+  text-align: center;
+}
+
+.madeline,
+.caroline,
+.hedwig,
+.hiems {
+  color: rgb(0, 0, 0);
+  border: none;
+
+  font-family: sacramento;
+  font-size: 40pt;
+  font-kerning: auto;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.madeline:hover,
+.caroline:hover,
+.hedwig:hover,
+.hiems:hover {
+  color: rgb(172, 137, 110);
+  cursor: pointer;
+}
+
+.madeline-price,
+.caroline-price,
+.hedwig-price,
+.hiems-price {
+  font-size: 25pt;
+  font-kerning: auto;
+  border-radius: 10px;
+  color: rgb(0, 0, 0);
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+.add-to-basket:hover,
+.buy-now:hover {
+  color: white;
+  background-color: rgb(172, 137, 110);
+  margin-right: 0mm;
+  cursor: pointer;
+}
+
+.blog1 {
+  background-color: rgb(172, 137, 110);
+  border-radius: 10px;
+  color: black;
+  border: none;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  font-size: 20pt;
+}
+
+.blog-besedilo-1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+}
+
+.dr-sandra {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.read-more {
+  color: white;
+  background-color: rgb(172, 137, 110);
+}
+.read-more:hover {
+  color: rgb(172, 137, 110);
+  background-color: white;
+}
